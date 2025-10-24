@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**tariklahm/tariklahm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi there 👋, I'm Tarik Lahmam
+I'm a passionate **Software Developer** currently learning **Backend Development** through the ALX program.  
+I enjoy building clean, efficient, and impactful web applications.
+### 🛠️ Languages and Tools
+- 💻 Python | JavaScript | C++ | C#
+- 🌐 HTML | CSS | 
+- 🗄️ MySQL
+- ⚙️ Git | GitHub | VS Code | codeblocks
+  ### 🌱 Currently learning
+- Computer science T IPIAB kenitra
+- Backend Development At ALX program
+### 📫 How to reach me
+- LinkedIn: https://www.linkedin.com/in/tarik-lahmam
+- GitHub: https://github.com/tariklahm
