@@ -6,7 +6,7 @@ I enjoy building clean, efficient, and impactful web applications.
 - 🌐 HTML | CSS | 
 - 🗄️ MySQL
 - ⚙️ Git | GitHub | VS Code | codeblocks
-  ### 🌱 Currently learning
+### 🌱 Currently learning
 - Computer science T IPIAB kenitra
 - Backend Development At ALX program
 ### 📫 How to reach me
