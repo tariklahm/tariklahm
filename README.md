@@ -7,8 +7,10 @@ I enjoy building clean, efficient, and impactful web applications.
 - 🗄️ MySQL
 - ⚙️ Git | GitHub | VS Code | codeblocks
 ### 🌱 Currently learning
-- Computer science T IPIAB kenitra
+- Computer science at IPIAB kenitra
 - Backend Development At ALX program
+- AI Career Essentials
 ### 📫 How to reach me
 - LinkedIn: https://www.linkedin.com/in/tarik-lahmam
 - GitHub: https://github.com/tariklahm
+
