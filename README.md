@@ -8,8 +8,8 @@ I enjoy building clean, efficient, and impactful web applications.
 - ⚙️ Git | GitHub | VS Code | codeblocks
 ### 🌱 Currently learning
 - Computer science at IPIAB kenitra
-- Backend Development At ALX program
-- AI Career Essentials
+- Backend Development At ALX Program
+- AI Career Essentials At AlX Program
 ### 📫 How to reach me
 - LinkedIn: https://www.linkedin.com/in/tarik-lahmam
 - GitHub: https://github.com/tariklahm
